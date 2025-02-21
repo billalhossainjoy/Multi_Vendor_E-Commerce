@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/billalhossainjoy/Multi_Vendor_E-Commerce_client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/billalhossainjoy/Multi_Vendor_E-Commerce_server.git
